@@ -14,7 +14,7 @@ class Bot:
 			kinevion_t_s
 		)
 
-		self.file_got= None
+		self.file_got = None
 		self.random_file_og_name = None
 
 	def __get_time(self):
